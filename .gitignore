@@ -1,0 +1,8 @@
+# 测试产物
+*.gcop
+*.gcop.key
+*.vx
+*.hx
+*.hx.key
+__pycache__/
+*.pyc
